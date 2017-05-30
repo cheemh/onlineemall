@@ -57,6 +57,13 @@
     <version>1.2.1</version>
 </dependency>
 
+<!-- Link Backend Project -->
+<dependency>
+	<groupId>com.net</groupId>
+  <artifactId>shoppingbackend</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+</dependency>
+
 
  </dependencies>
   <build>
